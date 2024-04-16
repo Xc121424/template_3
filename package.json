@@ -1,6 +1,6 @@
 {
   "name": "web3_tea_3",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/Xc121424/template_3",
   "scripts": {
     "build": "pnpm --dir ./packages/react-vant build",
@@ -17,7 +17,7 @@
     "*.{ts,tsx}": "npm run react-vant:lint"
   },
   "dependencies": {
-    "ethers": "^6.11.1"
+    "web-midi-api": "^2.3.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "17.0.3",
