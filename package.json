@@ -1,6 +1,6 @@
 {
   "name": "web3_tea_3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/Xc121424/template_3",
   "scripts": {
     "build": "pnpm --dir ./packages/react-vant build",
